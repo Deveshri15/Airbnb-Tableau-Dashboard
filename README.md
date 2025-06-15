@@ -34,6 +34,17 @@ We observed that Brookly and Manhattan are densly populated with Airbnb listings
 Three types of rooms are availble in Airbnb listings i.e Entire home/Apt,private room and share room.
 Most Common Room Type:Entire home/apt is most frequently booked across all neighborhoods.
 Average price by Neighbourhood group for room type all manhattan average price is $ 196.88 which is increased other than of neighbourhood group and Lowest Average Price Bronx – $87.50.
+Top Hosts by Total Reviews,Top-reviewed hosts include Brooklyn Breakfast (~2,205 reviews), Maya in Queens (~2,273), Danielle in Queens (~2,017), Brady in Brooklyn (~1,818), among others.
+Their average nightly prices range from around $42 to $264.
+Seasonality & Bookings:Bookings peak in June (13,588 bookings) and decline sharply by September.Summer months (May–August) are the busiest, likely due to tourism patterns.
+
+conclusion:-The analysis demonstrates that location, room type, and host quality are the main drivers of Airbnb performance in NYC. Manhattan and Brooklyn dominate both in volume and revenue potential. Meanwhile, price-sensitive guests may look to the Bronx or Queens for more affordable options. Listings with entire homes and responsive hosts gain more reviews and likely have higher occupancy rates.
+
+
+
+
+
+
 
 
 
